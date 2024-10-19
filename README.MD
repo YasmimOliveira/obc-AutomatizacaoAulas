@@ -22,9 +22,13 @@ Criar um script de automação do browser que permita ao aluno marcar como concl
 
 1. Alterar dentro do arquivo config.js os parametros de email e senha na comunidade;
 
-2. Selecionar se será marcado o curso todo ou somente um módulo especifico dele;
+2. No terminal, execute npm install para instalar as dependências;
 
-3. Obtenha o link do curso e o título do módulo que você deseja marcar.
+3. Em seguida, execute o comando node index.js;
+
+4. Selecionar se será marcado o curso todo ou somente um módulo especifico dele;
+
+5. Obtenha o link do curso e o título do módulo que você deseja marcar.
 
 ### OBS:
     O título do módulo deve corresponder EXATAMENTE ao que está exibido no site da comunidade, incluindo maiúsculas, minúsculas e espaçamento.
